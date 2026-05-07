@@ -22,6 +22,9 @@ TBC — Caner to confirm Shopify URL, Klaviyo account, ad platforms during onboa
 
 - **Status:** active ✅ — currently in **Sprint 2 (Paid Social & PPC)**, transitioning into Sprint 3 (Affiliates & UGC)
 - **Tier:** sprint retainer (multi-sprint)
+- **Registered billing entity:** **Montagne Jeunesse (International) Ltd** ✅
+- **Billing address:** Astral Court, Central Avenue, Baglan Energy Park, Port Talbot, SA12 7AX ✅
+- **Billing email:** **accountspayable@montagnejeunesse.com** ✅
 - **SOW reference:** **SOW-7TH-2604** ✅
 - **Onboarding:** 2026-02-10 (per `notion://Onboarding & Assets`)
 - **Sprints completed/in-flight:**
