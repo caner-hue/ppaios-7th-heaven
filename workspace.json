@@ -1,12 +1,23 @@
 {
   "name": "PPAIOS — 7th Heaven",
-  "description": "7th Heaven brand workspace. Tier: sprint. Sheet-mask brand (Boots/Superdrug retail focus). 7th-heaven-growth-plan.html in Drive — read on first run.",
+  "description": "7th Heaven brand workspace. Tier: sprint (full 17-agent roster — same skill surface as KIND2). Sheet-mask brand (Boots/Superdrug retail focus). 7th-heaven-growth-plan.html in Drive — read on first run.",
   "agents": [
     "director",
     "analytics",
+    "customer-service",
     "email-sms",
+    "site-cro",
     "content-seo",
     "creative",
-    "social-media"
+    "social-media",
+    "paid-ads",
+    "reseller-outreach",
+    "creator-manager",
+    "amazon-ppc",
+    "amazon-catalogue",
+    "finance-reporter",
+    "logistics-inventory",
+    "reviews-social-proof",
+    "retention-curator"
   ]
 }
